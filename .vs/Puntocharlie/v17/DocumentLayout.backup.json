@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Puntocharlie\\Controllers\\PuntoServicioController.cs",
               "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Controllers\\PuntoServicioController.cs",
               "RelativeToolTip": "Puntocharlie\\Controllers\\PuntoServicioController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T06:11:58.676Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Puntocharlie\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T06:10:15.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T06:10:15.021Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Puntocharlie\\Controllers\\TecnicosController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T06:04:50.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T06:04:50.503Z"
             }
           ]
         }
