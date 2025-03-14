@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Puntocharlie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a27694ec30282800cff06e37aca9cd824a2f912")]
 [assembly: System.Reflection.AssemblyProductAttribute("Puntocharlie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Puntocharlie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

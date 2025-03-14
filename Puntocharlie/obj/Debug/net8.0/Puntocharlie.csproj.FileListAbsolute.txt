@@ -171,3 +171,4 @@ F:\Usuario\Desktop\puntoCharlie\Puntocharlie\Puntocharlie\obj\Debug\net8.0\refin
 F:\Usuario\Desktop\puntoCharlie\Puntocharlie\Puntocharlie\obj\Debug\net8.0\Puntocharlie.pdb
 F:\Usuario\Desktop\puntoCharlie\Puntocharlie\Puntocharlie\obj\Debug\net8.0\Puntocharlie.genruntimeconfig.cache
 F:\Usuario\Desktop\puntoCharlie\Puntocharlie\Puntocharlie\obj\Debug\net8.0\ref\Puntocharlie.dll
+F:\Usuario\Desktop\puntoCharlie\Puntocharlie\Puntocharlie\obj\Debug\net8.0\Puntocharlie.sourcelink.json

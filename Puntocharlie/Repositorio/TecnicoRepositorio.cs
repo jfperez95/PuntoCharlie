@@ -1,5 +1,7 @@
-﻿using Puntocharlie.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using Puntocharlie.Data;
 using Puntocharlie.Data.Dtos;
+using Puntocharlie.Models;
 using Puntocharlie.Repositorio.IRepositorio;
 
 namespace Puntocharlie.Repositorio
@@ -14,10 +16,11 @@ namespace Puntocharlie.Repositorio
 
         public ICollection<TecnicoDto> GetTecnicos()
         {
-            return _bd.Tecnicos.Select(t=> new TecnicoDto
+            return _bd.Tecnicos.Include(p=>p.PuntoServicio).Select(t => new TecnicoDto
             {
                 Id = t.Id,
-                Nombre = t.Nombre
+                Nombre = t.Nombre,
+                abreDomingo = t.PuntoServicio.abreDomingo
             }).OrderBy(t => t.Nombre).ToList();
         }
     }

@@ -9,9 +9,9 @@ namespace Puntocharlie.Data
             if (!context.PuntoServicios.Any())  //Evita insertar puntos de servicio duplicados
             {
                 context.PuntoServicios.AddRange(
-                    new PuntoServicio { Nombre = "Punto 1", Direccion = "Calle 1" },
-                    new PuntoServicio { Nombre = "Punto 2", Direccion = "Calle 2" },
-                    new PuntoServicio { Nombre = "Punto 3", Direccion = "Calle 3" }
+                    new PuntoServicio { Nombre = "Punto 1", Direccion = "Calle 1", abreDomingo = true },
+                    new PuntoServicio { Nombre = "Punto 2", Direccion = "Calle 2", abreDomingo = false },
+                    new PuntoServicio { Nombre = "Punto 3", Direccion = "Calle 3", abreDomingo = false }
                 );
             }
 

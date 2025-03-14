@@ -24,6 +24,15 @@ builder.Services.AddScoped<IPuntoServicioRepositorio, PuntoServicioRepositorio>(
 //Se agrega el servicio de AutoMapper
 builder.Services.AddAutoMapper(typeof(PuntoCharlieMapper));
 
+//Configuracin de CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy => policy.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+});
+
 var app = builder.Build();
 
 //Ejecutar el Seeder
@@ -43,6 +52,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Aplicar la política de CORS
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 

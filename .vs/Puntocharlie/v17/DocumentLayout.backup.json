@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\repositorio\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\repositorio\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\repositorio\\tecnicorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\repositorio\\tecnicorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\models\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\data\\dtos\\tecnicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\data\\dtos\\tecnicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\controllers\\puntoserviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\controllers\\puntoserviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|f:\\usuario\\desktop\\puntocharlie\\puntocharlie\\puntocharlie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A782DD8-B600-4530-8A8E-73DB3354B125}|Puntocharlie\\Puntocharlie.csproj|solutionrelative:puntocharlie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,32 +58,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Puntocharlie\\Controllers\\CitasController.cs",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Puntocharlie\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:27:55.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tecnico.cs",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Models\\Tecnico.cs",
+              "RelativeDocumentMoniker": "Puntocharlie\\Models\\Tecnico.cs",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Models\\Tecnico.cs",
+              "RelativeToolTip": "Puntocharlie\\Models\\Tecnico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:42:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CitaRepositorio.cs",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Repositorio\\CitaRepositorio.cs",
+              "RelativeDocumentMoniker": "Puntocharlie\\Repositorio\\CitaRepositorio.cs",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Repositorio\\CitaRepositorio.cs",
+              "RelativeToolTip": "Puntocharlie\\Repositorio\\CitaRepositorio.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAMwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:37:40.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TecnicoRepositorio.cs",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Repositorio\\TecnicoRepositorio.cs",
+              "RelativeDocumentMoniker": "Puntocharlie\\Repositorio\\TecnicoRepositorio.cs",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Repositorio\\TecnicoRepositorio.cs",
+              "RelativeToolTip": "Puntocharlie\\Repositorio\\TecnicoRepositorio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:37:34.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TecnicoDto.cs",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Data\\Dtos\\TecnicoDto.cs",
+              "RelativeDocumentMoniker": "Puntocharlie\\Data\\Dtos\\TecnicoDto.cs",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Data\\Dtos\\TecnicoDto.cs",
+              "RelativeToolTip": "Puntocharlie\\Data\\Dtos\\TecnicoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:36:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Puntocharlie\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Puntocharlie\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T18:11:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\appsettings.json",
+              "RelativeDocumentMoniker": "Puntocharlie\\appsettings.json",
+              "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\appsettings.json",
+              "RelativeToolTip": "Puntocharlie\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T18:11:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PuntoServicioController.cs",
               "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Controllers\\PuntoServicioController.cs",
               "RelativeDocumentMoniker": "Puntocharlie\\Controllers\\PuntoServicioController.cs",
               "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Controllers\\PuntoServicioController.cs",
               "RelativeToolTip": "Puntocharlie\\Controllers\\PuntoServicioController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T06:11:58.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Program.cs",
               "RelativeDocumentMoniker": "Puntocharlie\\Program.cs",
               "ToolTip": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Program.cs",
               "RelativeToolTip": "Puntocharlie\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T06:10:15.021Z"
+              "WhenOpened": "2025-03-13T06:10:15.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "TecnicosController.cs",
               "DocumentMoniker": "F:\\Usuario\\Desktop\\puntoCharlie\\Puntocharlie\\Puntocharlie\\Controllers\\TecnicosController.cs",
               "RelativeDocumentMoniker": "Puntocharlie\\Controllers\\TecnicosController.cs",
